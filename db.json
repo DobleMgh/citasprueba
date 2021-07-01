@@ -1,0 +1,31 @@
+{
+    "user":[
+         {
+    "id": 1,
+    "nombre": "Manuel",
+    "apellido": "Puch",
+    "telefono": "213214213412",
+    "categoria": "Trabajo",
+    "fecha": "11/6/2021",
+    "hora": "11:0"
+  },
+  {
+    "id": 2,
+    "nombre": "Debora",
+    "apellido": "Meltrozo",
+    "telefono": "12312341",
+    "categoria": "Compras",
+    "fecha": "5/6/2021",
+    "hora": "10:20"
+  },
+  {
+    "id": 3,
+    "nombre": "Larry",
+    "apellido": "Katula",
+    "telefono": "355367343",
+    "categoria": "Trabajo",
+    "fecha": "8/6/2021",
+    "hora": "11:0"
+  }
+    ]
+}
